@@ -1,0 +1,31 @@
+[
+    { "userId": 1, "id": 1, "title": "Подготовить ТЗ для модуля оплаты", "completed": false },
+    { "userId": 1, "id": 2, "title": "Реализовать авторизацию по OAuth2", "completed": true },
+  
+    { "userId": 2, "id": 3, "title": "Настроить CI/CD в GitHub Actions", "completed": false },
+    { "userId": 2, "id": 4, "title": "Добавить двухфакторную аутентификацию", "completed": false },
+  
+    { "userId": 3, "id": 5, "title": "Контейнеризировать приложение с Docker", "completed": true },
+    { "userId": 3, "id": 6, "title": "Оптимизировать запросы к PostgreSQL", "completed": false },
+  
+    { "userId": 4, "id": 7, "title": "Добавить кэширование Redis для каталога", "completed": false },
+    { "userId": 4, "id": 8, "title": "Внедрить очереди RabbitMQ для уведомлений", "completed": false },
+  
+    { "userId": 5, "id": 9, "title": "Покрыть API интеграционными тестами", "completed": true },
+    { "userId": 5, "id": 10, "title": "Добавить rate limiting на публичный API", "completed": false },
+  
+    { "userId": 6, "id": 11, "title": "Собрать дашборды в Grafana", "completed": false },
+    { "userId": 6, "id": 12, "title": "Настроить мониторинг в Prometheus", "completed": true },
+  
+    { "userId": 7, "id": 13, "title": "Реализовать RBAC для админ-панели", "completed": false },
+    { "userId": 7, "id": 14, "title": "Добавить трассировку запросов (OpenTelemetry)", "completed": false },
+  
+    { "userId": 8, "id": 15, "title": "Сверстать страницу тарифов", "completed": true },
+    { "userId": 8, "id": 16, "title": "Оптимизировать время сборки фронтенда", "completed": false },
+  
+    { "userId": 9, "id": 17, "title": "Реализовать Webhook-уведомления", "completed": false },
+    { "userId": 9, "id": 18, "title": "Сделать экспорт данных в CSV/JSON", "completed": false },
+  
+    { "userId": 10, "id": 19, "title": "Проверить безопасность с OWASP ZAP", "completed": false },
+    { "userId": 10, "id": 20, "title": "Подготовить миграции БД для новой схемы", "completed": false }
+  ]

@@ -1,0 +1,16 @@
+[
+    { "postId": 1, "id": 1, "name": "Александр", "email": "alex@example.com", "body": "Стоит добавить детальное логирование запросов." },
+    { "postId": 1, "id": 2, "name": "Виктория", "email": "vika@example.com", "body": "Хорошая идея перейти на событийную архитектуру." },
+  
+    { "postId": 2, "id": 3, "name": "Роман", "email": "roma@example.com", "body": "Интересно сравнение p95 до и после оптимизации." },
+    { "postId": 2, "id": 4, "name": "Елена", "email": "elena@example.com", "body": "Поддерживаю использование кэша для нагруженных эндпоинтов." },
+  
+    { "postId": 3, "id": 5, "name": "Павел", "email": "pavel@example.com", "body": "А как тестировали обратную совместимость при релизах?" },
+    { "postId": 3, "id": 6, "name": "Наталья", "email": "nata@example.com", "body": "CI/CD с прогревом окружения — огонь!" },
+  
+    { "postId": 4, "id": 7, "name": "Михаил", "email": "mike@example.com", "body": "Хорошо бы примеры конфигов для rate limiting." },
+    { "postId": 4, "id": 8, "name": "Юлия", "email": "yulia@example.com", "body": "Расскажите больше про метрики p99." },
+  
+    { "postId": 5, "id": 9, "name": "Иван", "email": "ivan@example.com", "body": "Событийная шина сильно упрощает интеграции." },
+    { "postId": 5, "id": 10, "name": "Ксения", "email": "ksu@example.com", "body": "Как реализовали ретраи и дедупликацию?" }
+]
